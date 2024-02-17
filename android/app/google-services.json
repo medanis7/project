@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177780612203",
+    "project_id": "assistant-e1552",
+    "storage_bucket": "assistant-e1552.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177780612203:android:25f3583e9a25f7153c652e",
+        "android_client_info": {
+          "package_name": "com.example.isproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJDLTcnOkz-XQZaGoYE-eAvDIXo6EeF5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
